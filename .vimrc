@@ -1,5 +1,6 @@
 set nocompatible
-call pathogen#infect()
+execute pathogen#infect()
+filetype plugin indent on
 set t_Co=256
 syntax enable
 colorscheme smyck
