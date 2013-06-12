@@ -3,6 +3,12 @@
 *.swp
 *.swo
 
+# special files #
+#################
+.netrwhist
+
+
+
 # logs and databases #
 ######################
 *.log
