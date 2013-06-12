@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/alel/workspace/vagrant/sl-test/.vagrant'
-let g:netrw_dirhist_2='/Users/alel/workspace/vagrant/sl-test/.vagrant/machines'
-let g:netrw_dirhist_3='/Users/alel/workspace/vagrant/sl-test/.vagrant/machines/default'
-let g:netrw_dirhist_4='/Users/alel/workspace/vagrant/sl-test/.vagrant/machines/default/virtualbox'
-let g:netrw_dirhist_5='/Users/alel/workspace/vagrant/racktables'
-let g:netrw_dirhist_6='/Users/alel/workspace/vagrant/racktables/manifests'
