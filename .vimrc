@@ -36,10 +36,10 @@ set autoread                          " Automaticly update files
 
 " Global indent rules
 set smartindent                         " Do smart-indenting on new-line (keeps track of folding)
-set tabstop=2                          " How many whitespace-characters to use for tabs
+set tabstop=4                          " How many whitespace-characters to use for tabs
 set expandtab                           " Use spaces instead of tabs for indenting and with < and >
 set shiftwidth=2                        " Number of spaces to use for each auto-indent-step
-
+set paste
 "To have the numeric keypad working with putty / vim
 :imap <Esc>Oq 1
 :imap <Esc>Or 2
