@@ -15,6 +15,8 @@ let maplocalleader="\\"                 " The same but for buffer-local mappings
 set cmdheight=2                         " Number of lines to use for command-line
 set laststatus=2                        " Always show the status-line
 
+set clipboard=unnamed                   " use the system clipboard
+
 " Old statusline, was nice, but the new one is LEGEN - wait for it - DARY!
 " " set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [ASCII=\%03.3b]\
 " [HEX=\%02.2B]\ [POS=%04l,%04v][%p%%]\ [LEN=%L]
