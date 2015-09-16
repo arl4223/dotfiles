@@ -1,6 +1,6 @@
 #!/bin/sh
 
-HOME='/Users/arl4223'
+HOME=/Users/$(whoami)
 SELF=$(pwd)
 
 
