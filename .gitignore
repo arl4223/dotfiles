@@ -48,3 +48,8 @@ Thumbs.db
 *.exe
 *.o
 *.so
+
+
+# HomeBrew Github API token #
+#############################
+github_token.zsh
