@@ -4,7 +4,6 @@ HOME=/Users/$(whoami)
 SELF=$(pwd)
 
 
-ln -s $SELF/.git $HOME/.git 
 ln -s $SELF/.gitignore $HOME/.gitignore 
 ln -s $SELF/.vim $HOME/.vim 
 ln -s $SELF/.vimrc $HOME/.vimrc 
