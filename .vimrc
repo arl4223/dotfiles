@@ -37,6 +37,7 @@ set ruler
 set autoread                          " Automaticly update files
 
 " Global indent rules
+set backspace=2
 set smartindent                         " Do smart-indenting on new-line (keeps track of folding)
 set tabstop=4                          " How many whitespace-characters to use for tabs
 set expandtab                           " Use spaces instead of tabs for indenting and with < and >
