@@ -1,4 +1,5 @@
 alias ll='ls -la'
 alias lh='ls -lah'
 alias ...='cd ../..'
+alias mtr='mtr -t'
 alias python='python2.7'
