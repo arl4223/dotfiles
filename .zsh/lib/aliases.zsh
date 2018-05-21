@@ -1,4 +1,4 @@
 alias ll='ls -la'
 alias lh='ls -lah'
 alias ...='cd ../..'
-alias python='python2.7'
+alias python='python3'
